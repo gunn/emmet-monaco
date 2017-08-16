@@ -2,7 +2,7 @@
   "name": "emmet-monaco",
   "version": "0.1.0",
   "description": "Emmet support for monaco.",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "dev": "gulp4",
     "test": "test"
